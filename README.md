@@ -1,4 +1,4 @@
-#Auxillery Web Repo fo UfunS
+#Auxillery Web Repo for UfunS
 
 ----------------------------------
 This repository houses our web files which are not available on the other repository. 
